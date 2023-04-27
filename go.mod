@@ -1,4 +1,4 @@
-module mypackage
+module github.com/nuryanto2121/mypackage
 
 go 1.18
 
